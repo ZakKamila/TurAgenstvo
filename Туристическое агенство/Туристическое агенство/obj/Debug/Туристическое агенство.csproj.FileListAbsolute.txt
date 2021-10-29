@@ -1,0 +1,22 @@
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\bin\Debug\Туристическое агенство.exe.config
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\bin\Debug\Туристическое агенство.exe
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\bin\Debug\Туристическое агенство.pdb
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство.g.resources
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое_агенство.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство.exe
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Туристическое агенство.pdb
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\AppEdit.g.cs
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Hotels.g.cs
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\AppEdit.baml
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Hotels.baml
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\App.baml
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Tours.g.cs
+C:\Users\Lenovo\source\repos\Туристическое агенство\Туристическое агенство\obj\Debug\Tours.baml
